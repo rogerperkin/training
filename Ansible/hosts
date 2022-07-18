@@ -1,0 +1,6 @@
+## Ansible Hosts File for Lab 
+
+[sandbox]
+sandbox-iosxe-recomm-1.cisco.com
+sandbox-iosxe-latest-1.cisco.com
+
